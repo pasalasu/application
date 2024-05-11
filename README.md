@@ -1,5 +1,4 @@
-# application
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <title> website</title>
